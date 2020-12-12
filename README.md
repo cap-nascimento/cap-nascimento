@@ -1,5 +1,9 @@
 ##### 🦑 :octocat: *Welcome to Anderson's github* :octocat: 🦑
 
+:star: _**You can find me in a lot of places:**_
+
+[![GitHub Anderson](https://img.shields.io/github/followers/cap-nascimento?label=Follow&style=social)](https://github.com/cap-nascimento) [![Linkedin Anderson](https://img.shields.io/badge/-Anderson%20Vieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-vieira-do-nascimento-19b726121/)](https://www.linkedin.com/in/anderson-vieira-do-nascimento-19b726121/) [![Youtube Anderson](https://img.shields.io/badge/-Anderson%20Vieira-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g)](https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g) [![CodeForces anascimento](https://run.kaist.ac.kr/badges/codeforces/anascimento.svg)](https://codeforces.com/profile/anascimento)
+
 ![if you are brazilian, you'll understand why my username is cap-nascimento](welcome.gif)
 
 :point_up: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:  
@@ -20,12 +24,6 @@
 :coffee: *Java*  
 :snake: *Python*  
 :sob: *JavaScript*  
-
-:star: _**You can find me in a lot of places:**_
-
-
-
-
 
 <!--
 **cap-nascimento/cap-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
