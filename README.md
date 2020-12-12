@@ -12,10 +12,10 @@
 
 :star: _**My favorite programming languages are...**_
 
-###### :computer: C++
-###### :coffee: Java
-###### :snake: Python
-###### (JavaScript too, but there isn't a cool emoji to represent it :sob:)
+:computer: *C++*  
+:coffee: *Java*  
+:snake: *Python*  
+:sob: *JavaScript*  
 
 
 
