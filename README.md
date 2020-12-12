@@ -1,8 +1,13 @@
-##### 🦑 :octocat: *Welcome to my github* :octocat: 🦑
+##### 🦑 :octocat: *Welcome to Anderson's github* :octocat: 🦑
 
-<img src="welcome.gif" width="230" />
+<img src="welcome.gif" width="230" height="130"/>
 
-:star: _**Here you'll find awesome things... Like**_  
+###### :point_up: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:
+
+###### :izakaya_lantern: I'm a computer science student struggling to be a great programmer!
+
+:star: _**Here you'll find awesome things... Like**_ 
+
 :heavy_check_mark: *A Hair Stylist Portfolio*  
 :heavy_check_mark: *Web Scrappers*  
 :heavy_check_mark: *A lot of useful data structures in C/C++*  
@@ -15,6 +20,10 @@
 :coffee: *Java*  
 :snake: *Python*  
 :sob: *JavaScript*  
+
+:star: _**You can find me in a lot of places:**_
+
+
 
 
 
