@@ -1,10 +1,10 @@
 ##### 🦑 :octocat: *Welcome to Anderson's github* :octocat: 🦑
 
-<img src="welcome.gif" width="230" height="130"/>
+![if you are brazilian, you'll understand why my username is cap-nascimento](welcome.gif)
 
-###### :point_up: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:
+:point_up: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:  
 
-###### :izakaya_lantern: I'm a computer science student struggling to be a great programmer!
+:izakaya_lantern: *I'm a computer science student struggling to be a great programmer!*  
 
 :star: _**Here you'll find awesome things... Like**_ 
 
