@@ -6,9 +6,11 @@
 
 <hr>
 
-<img align="right" src="welcome.gif" height="100"/>
+<img align="right" src="welcome.gif" height="200"/>
 
 :izakaya_lantern: *I'm a computer science student struggling to be a great programmer!*  
+
+:zap: *Currently, I'm improving my skills with web programming and testing some new frameworks to make my routine more easier* :stuck_out_tongue_winking_eye:
 
 :point_right: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:
 
@@ -24,10 +26,7 @@
 
 :star: _**My favorite programming languages are...**_
 
-:computer: *C++*  
-:coffee: *Java*  
-:snake: *Python*  
-:sob: *JavaScript*  
+:computer: *C++*, :coffee: *Java*, :snake: *Python*, :sob: *JavaScript*  
 
 <!--
 **cap-nascimento/cap-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
