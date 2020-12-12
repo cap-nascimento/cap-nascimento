@@ -14,6 +14,8 @@
 
 :point_right: *if you are brazilian, you'll understand why my username is cap-nascimento* :grin:
 
+:japanese_ogre: Fun facts about me: I like to play acoustic guitar :musical_note: (just because I don't have any other instrument), I like to watch anime and study japanese on free time, by the way,　プログラミングはすごいですね！
+
 <hr>
 
 :star: _**Here you'll find awesome things... Like**_ 
