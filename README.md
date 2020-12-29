@@ -2,7 +2,7 @@
 
 :v: _**You can find me in a lot of places:**_
 
-[![GitHub Anderson](https://img.shields.io/github/followers/cap-nascimento?label=Follow&style=social)](https://github.com/cap-nascimento) [![Linkedin Anderson](https://img.shields.io/badge/-Anderson%20Vieira-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-vieira-do-nascimento-19b726121/)](https://www.linkedin.com/in/anderson-vieira-do-nascimento-19b726121/) [![Youtube Anderson](https://img.shields.io/badge/-Anderson%20Vieira-ff0000?style=rounded-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g)](https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g) [![CodeForces anascimento](https://run.kaist.ac.kr/badges/codeforces/anascimento.svg)](https://codeforces.com/profile/anascimento)
+[![GitHub Anderson](https://img.shields.io/github/followers/cap-nascimento?label=Follow&style=social)](https://github.com/cap-nascimento) [![Linkedin Anderson](https://img.shields.io/badge/-Anderson%20Vieira-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cap-nascimento/)](https://www.linkedin.com/in/cap-nascimento/) [![Youtube Anderson](https://img.shields.io/badge/-Anderson%20Vieira-ff0000?style=rounded-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g)](https://www.youtube.com/channel/UC85-oRnrFyzuZIAL1wF0n-g) [![CodeForces anascimento](https://run.kaist.ac.kr/badges/codeforces/anascimento.svg)](https://codeforces.com/profile/anascimento)
 
 <hr>
 
