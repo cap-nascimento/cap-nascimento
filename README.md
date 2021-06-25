@@ -31,7 +31,7 @@
 :computer: *C++*, :coffee: *Java*, :snake: *Python*, :sob: *JavaScript*  
 
 <!--
-**cap-nascimento/cap-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cap-nascimento/cap-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. testando termux
 
 Here are some ideas to get you started:
 
